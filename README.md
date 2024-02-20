@@ -31,7 +31,4 @@ The Hotel Booking Analysis project aims to analyze hotel booking data to gain in
 7. **Churn Rate Analysis**:
    - Created a variable 'has_kids' based on whether at least one child was indicated during booking and calculated the churn rate for guests with and without kids, visualized as a stacked bar chart.
 
-## Visualizations:
-- Each analysis is accompanied by relevant visualizations, such as bar charts, box plots, count plots, line plots, and pie charts, providing clear insights into the data.
-
 This project offers valuable insights into hotel booking patterns and guest demographics, empowering hotel management to make data-driven decisions to enhance guest experiences and optimize operations.
