@@ -7,8 +7,7 @@ The Hotel Booking Analysis project aims to analyze hotel booking data to gain in
 ## Methods and Technologies Used:
 1. **Python**: The primary programming language for data analysis tasks.
 2. **Pandas**: Utilized for data manipulation, preprocessing, and analysis.
-3. **Matplotlib and Seaborn**: These libraries are employed for data visualization, enabling the creation of informative charts and plots.
-4. **Jupyter Notebook**: Used as the development environment to run Python code interactively and document the analysis process.
+3. **Jupyter Notebook**: Used as the development environment to run Python code interactively and document the analysis process.
 
 ## Results:
 1. **Top Countries by Successful Bookings**:
